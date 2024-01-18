@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+.e {
+    display: flex;
+    background-color: rgb(96, 201, 96);
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.e .ee {
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+}
+.e .ee a {
+;
+}
+.e .eee ul {
+    display: flex;
+    list-style: none;
+}
+.e .eee ul li {
+align-items: center;
+margin-left: 70px;
+}
